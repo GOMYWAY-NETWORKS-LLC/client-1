@@ -144,10 +144,15 @@ iced-logger@^0.0.6:
   dependencies:
     colors "~0.6.2"
 
-iced-runtime@>=0.0.1, "iced-runtime@>=0.0.1 <2.0.0-0", iced-runtime@^1.0.0, iced-runtime@^1.0.2, iced-runtime@^1.0.3:
+iced-runtime@>=0.0.1, "iced-runtime@>=0.0.1 <2.0.0-0", iced-runtime@^1.0.0, iced-runtime@^1.0.3:
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/iced-runtime/-/iced-runtime-1.0.3.tgz#2d4f4fb999ab7aa5430b193c77a7fce4118319ce"
   integrity sha1-LU9PuZmreqVDCxk8d6f85BGDGc4=
+
+iced-runtime@^1.0.4:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/iced-runtime/-/iced-runtime-1.0.4.tgz#e9de26dfe98cd8621201f7f3dfb9f7f09c550990"
+  integrity sha512-rgiJXNF6ZgF2Clh/TKUlBDW3q51YPDJUXmxGQXx1b8tbZpVpTn+1RX9q1sjNkujXIIaVxZByQzPHHORg7KV51g==
 
 iced-test@0.0.22:
   version "0.0.22"
